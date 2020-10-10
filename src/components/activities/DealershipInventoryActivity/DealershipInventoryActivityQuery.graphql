@@ -1,0 +1,8 @@
+query DealershipInventoryActivity {
+  dealerships {
+    id
+    name
+    address
+    logoUrl
+  }
+}
